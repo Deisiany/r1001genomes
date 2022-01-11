@@ -1,0 +1,14 @@
+---
+title: "Align CDS G. max sequences for philogeny analysis"
+author: "Deisiany"
+date: "9/23/2021"
+output: html_document
+---
+
+We also want to create a function that pulls coding sequences from G. max and allows us to align and make an alignment data frame for later on creating a nexus file as similar as possible as our A. thaliana data
+```{r}
+# create alignCDS function for G. max
+
+
+
+```
